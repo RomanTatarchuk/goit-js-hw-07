@@ -1,1 +1,1 @@
-# goit-js-hw-07
+https://github.com/RomanTatarchuk/goit-js-hw-07/
